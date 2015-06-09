@@ -1,0 +1,12 @@
+/* Test import of basic sass file in subfolder. */
+@import "modules/sub1";
+
+.summary {
+  content: eyeglass-version();
+  content: "compile only scss files";
+  content: ".sub1{} should be present above this";
+}
+
+
+@import "eyeglass-sample";
+

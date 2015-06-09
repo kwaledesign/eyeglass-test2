@@ -1,0 +1,17 @@
+{
+  "name": "eyeglass-test2",
+  "description": "Example of Gulp and Eyeglass Integration",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwaledesign/gulp-eyeglass-test2"
+  },
+  "dependencies": {
+    "eyeglass-listfiles": "0.0.1",
+    "eyeglass-sample": "0.0.2",
+    "gulp": "~3.8.11",
+    "gulp-sass": "~2.0.1",
+    "eyeglass": "~0.2.0", 
+    "node-sass": "3.1.2"
+  }
+}
